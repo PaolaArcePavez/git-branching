@@ -11,6 +11,7 @@ nav {
     background-color: brown;
 }
 
+
 header {
     height: 80vh;
     display: flex;
@@ -20,6 +21,8 @@ header {
 
 /* add some styles for your cool footer */
 footer {
-    height: 5vh;
-    background-color: black;
-}
+    height: 20vh;
+    width:100% ;
+   background-color: black;
+
+} 
